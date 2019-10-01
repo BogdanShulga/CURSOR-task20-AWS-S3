@@ -1,0 +1,61 @@
+[ {
+  "name" : "Larry",
+  "surname" : "Schiebel",
+  "lastLoginDate" : [ 2019, 3, 18 ],
+  "email" : "Larry.Schiebel.1987@gmail.com",
+  "homeworkToIsDone" : {
+    "homework-1" : true,
+    "homework-2" : false,
+    "homework-3" : true,
+    "homework-4" : false,
+    "homework-5" : false
+  }
+}, {
+  "name" : "Ty",
+  "surname" : "Ostrander",
+  "lastLoginDate" : [ 2019, 7, 4 ],
+  "email" : "Ty.Ostrander.1982@gmail.com",
+  "homeworkToIsDone" : {
+    "homework-1" : false,
+    "homework-2" : false,
+    "homework-3" : false,
+    "homework-4" : false,
+    "homework-5" : true
+  }
+}, {
+  "name" : "Fred",
+  "surname" : "Reamer",
+  "lastLoginDate" : [ 2019, 3, 3 ],
+  "email" : "Fred.Reamer.1984@gmail.com",
+  "homeworkToIsDone" : {
+    "homework-1" : false,
+    "homework-2" : false,
+    "homework-3" : true,
+    "homework-4" : false,
+    "homework-5" : false
+  }
+}, {
+  "name" : "Monte",
+  "surname" : "Lulloff",
+  "lastLoginDate" : [ 2019, 1, 18 ],
+  "email" : "Monte.Lulloff.1979@gmail.com",
+  "homeworkToIsDone" : {
+    "homework-1" : true,
+    "homework-2" : true,
+    "homework-3" : true,
+    "homework-4" : true,
+    "homework-5" : false
+  }
+}, {
+  "name" : "Larry",
+  "surname" : "Solberg",
+  "lastLoginDate" : [ 2019, 2, 2 ],
+  "email" : "Larry.Solberg.1983@gmail.com",
+  "homeworkToIsDone" : {
+    "homework-1" : false,
+    "homework-2" : true,
+    "homework-3" : true,
+    "homework-4" : false,
+    "homework-5" : true
+  }
+} ]
